@@ -10,8 +10,11 @@ Esta entrega se realiza bajo los <a href="https://www.coursera.org/learn/data-cl
 5. The work submitted for this project is the work of the student who submitted it.
 
 La entrega comenzó a realizarse con la creación de este repositorio en GitHub a fecha <i>25 de Noviembre del 2020</i>, desde aquí continuaremos con el desarrollo del encargo en los días venideros. Los contenidos se estructuran en este file de la siguiente manera:
+
 I. **Description of the data set**
+
 II. **Description of the files**
+
 III. **Deliverables**
 
 ### I. Acerca del Dataset: *"Human Activity Recognition Using Smartphones Dataset"*
