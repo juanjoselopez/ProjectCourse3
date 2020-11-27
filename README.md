@@ -49,3 +49,12 @@ La mayor parte de los files del comprimido están en **formato .txt**, y están 
   - ***"body_acc_x || y || z_test.txt"***; Aceleración corporal al sustraer de la aceleración total la acción de la gravedad, conjunto de prueba.
   - ***"body_gyro_x || y || z_train.txt"***; Velocidad angular medida por el giróscopo incluido en el dispositivo para el axis X || Y || Z, conjunto de entrenamiento.
   - ***"body_gyro_x || y || z_test.txt"***; Velocidad angular medida por el giróscopo incluido en el dispositivo para el axis X || Y || Z, conjunto de prueba.
+  
+  ### III. La Entrega del Proyecto
+  
+El objetivo principal de la evaluación de pares es el llegar a un documento estructurado y limpio, un file de la clase "Tidy Data". Es por lo anterior que los entregables principales son los siguientes:
+
+- [Script de Manipulación y Limpieza](https://github.com/juanjoselopez/ProjectCourse3/blob/main/run_analysis.R)
+- [CSV de los datos procesados (Tidy Data)](https://github.com/juanjoselopez/ProjectCourse3/blob/main/tidy.csv)
+
+Se esta trabajando adicionalmente en la documentación, pese a que no es un requisito consecuente de la calificación final.
