@@ -68,6 +68,7 @@ names(xMerged)
 dataMerged <- cbind(yMerged,xMerged)
 head(dataMerged)
 
-## Exporting First Task
+##  Exporting First Task
+
 write.table(dataMerged, file = "tidy.txt",row.names=FALSE)
 write.csv(dataMerged, file = "tidy.csv",row.names=FALSE)
